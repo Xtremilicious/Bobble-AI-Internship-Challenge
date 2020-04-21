@@ -6,7 +6,7 @@
 
 ## How to Build (.exe file) - Already pre-built
 
- **1. First, make sure you are inside the `source` folder**
+ 1. **First, make sure you are inside the `source` folder**
  2. To **build** the executable file type:
  3. `pip install pyinstaller`
  4. Then, `pyinstaller -F iterative_word_suggestion.spec
